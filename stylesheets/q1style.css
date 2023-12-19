@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@700&display=swap');
+
+h1 {
+  margin-top: 2%;
+  text-align: center;
+  font-family: "Poppins", Sans-Serif;
+  text-transform: uppercase;
+}
+
+.go1 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.go2 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.text {
+margin-left: 3%;
+  margin-right: 3%;
+}
+
+.q {
+  transform: translate(0,15%);
+  font-family: "Poppins", Sans-Serif;
+  margin-bottom: 2%;
+}
+
+.a {
+  font-family: "Inter", Sans-Serif;
+}
+
+.container {
+
+	display: flex;
+
+	justify-content: center;
+}
+
+.card {
+	background: #112d4e;
+	color: #fff;
+    font-family: "Poppins", Sans-Serif;
+	font-size: 10px;
+	width: 220px;
+	height: 350px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+h2 {
+	margin-left: 10px;
+}
+
+.cardimg {
+	height: 280px;
+	margin-bottom: 20px;
+	background-size: cover;
+	border-radius: 15px 15px 0 0;
+}
+
+.c1 {
+	background-image: url('../img/ke.jpg')
+}
+
+.c2 {
+	background-image: url('../img/ce.jpg')
+}
+
+.c3 {
+	background-image: url('../../img/ec.jpg')
+}
+
+.c4 {
+	background-image: url('../../img/ge.jpg')
+}
+
+.c5 {
+	background-image: url('../../img/vb.jpg')
+}
+
+.c6 {
+	background-image: url('../../img/vg.jpg')
+}
+
+.c7 {
+	background-image: url('../../img/kw.jpg')
+}
+
+.c8 {
+	background-image: url('../../img/ct.jpg')
+}
+
+.c9 {
+	background-image: url('../../img/gt.jpg')
+}
+
+.sb1 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.sb2 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.vid {
+  width: 90%;
+  margin-top: 20px;
+  margin: 5%;
+}
