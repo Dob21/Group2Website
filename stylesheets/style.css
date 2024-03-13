@@ -5,9 +5,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url('img/bg.jpeg');
-  background-size: cover;
 }
+
 body {
   background: #dbe2ef
 }
